@@ -9,8 +9,8 @@ De vez em quando subo alguns projetos pessoais ou da faculdade no Git, então fi
 - 📫 Contate-me por e-mail: ygor.m.r@hotmail.com
 
 
-<img align="left" height="200cm" src= "https://github-readme-stats.vercel.app/api?username=Ygormrs&theme=blue-green"/>
-<img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygormrs&theme=blue-green"/>
+<img align="left" height="173cm" src= "https://github-readme-stats.vercel.app/api?username=Ygormrs&theme=blue-green"/>
+<img height="173cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ygormrs&theme=blue-green"/>
 
 <code><img height="25" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
