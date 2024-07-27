@@ -1,6 +1,6 @@
 ## Fala Galera 👋
 
-Me chamo Ygor, estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista UNIP.  
+Me chamo Ygor, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista UNIP.  
 De vez em quando subo alguns projetos pessoais ou da faculdade no Git, então fiquem a vontade 😉.  
 
 - 🔭 Estou trabalhando como Vendedor Corporativo
