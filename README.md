@@ -1,7 +1,7 @@
 ## Fala Galera 👋
 
-Me chamo Ygor, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista UNIP.  
-De vez em quando subo alguns projetos pessoais ou da faculdade no Git, então fiquem a vontade 😉.  
+Me chamo Ygor, sou formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista UNIP.  
+De vez em quando subo alguns projetos pessoais no Git, então fiquem a vontade 😉.  
 
 - 🔭 Estou trabalhando como Vendedor Corporativo
 - 📊 Objetivo Profissional: Analista de Dados
