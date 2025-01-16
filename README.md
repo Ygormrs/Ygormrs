@@ -4,8 +4,8 @@ Me chamo Ygor, sou formado em Análise e Desenvolvimento de Sistemas na Universi
 De vez em quando subo alguns projetos pessoais no Git, então fiquem a vontade 😉.  
 
 - 🔭 Estou trabalhando como Vendedor Corporativo
-- 📊 Objetivo Profissional: Analista de Dados
-- 🌱 Estou aprendendo C# (por conta da faculdade)
+- 📊 Objetivo Profissional: Desenvolvedor C# .NET
+- 🌱 Estou aprendendo C#
 - 📫 Contate-me por e-mail: ygor.m.r@hotmail.com
 
 
