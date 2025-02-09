@@ -3,9 +3,9 @@
 Me chamo Ygor, sou formado em Análise e Desenvolvimento de Sistemas na Universidade Paulista UNIP.  
 De vez em quando subo alguns projetos pessoais no Git, então fiquem a vontade 😉.  
 
-- 🔭 Estou trabalhando como Vendedor Corporativo
+- 🔭 Loading...
 - 📊 Objetivo Profissional: Desenvolvedor C# .NET
-- 🌱 Estou aprendendo C#
+- 🌱 Estou me aprimorando em C#
 - 📫 Contate-me por e-mail: ygor.m.r@hotmail.com
 
 
